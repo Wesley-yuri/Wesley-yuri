@@ -24,7 +24,7 @@
   <br>
 
 <div>
-      <a href="linkedin.com/in/wesley-yuri-7173021a4" target="_blank">  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
+      <a href=""linkedin.com/in/wesley-yuri-7173021a4 target="_blank">  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
 </div>
 
 
